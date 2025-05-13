@@ -1,2 +1,3 @@
 - hi i'm beati_kay
 - i'm best with luau but i'm learning c++ and python
+- typescript would also be cool to learn
